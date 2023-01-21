@@ -1,0 +1,7 @@
+div {
+  background-image: url(dog.jpg);
+  background-size: 25%;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: bottom;
+}
