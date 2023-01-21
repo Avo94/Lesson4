@@ -1,44 +1,46 @@
-body{
-    font-size: 85%;
+body {
+  font-size: 85%;
 }
 
-h1{
-    text-align: center;
+h1 {
+  text-align: center;
 }
 
-h2{
-    color: green;
+h2 {
+  color: green;
 }
 
-div{
-    width: 38%;
+div {
+  width: 38%;
 }
 
-p{
-    text-align: justify;
-    line-height: 2;
+p {
+  text-align: justify;
+  line-height: 2;
 }
 
-h1, ol, span{
-    color: red;
+h1,
+ol,
+span {
+  color: red;
 }
 
-span{
-    font-weight: bold;
-    font-size: 140%;
+span {
+  font-weight: bold;
+  font-size: 140%;
 }
 
-ul li{
-    font-style: italic;
-    color: gray;
+ul li {
+  font-style: italic;
+  color: gray;
 }
 
-#blue{
-    font-style: italic;
-    color: blue;
-    font-size: 85%;
+#blue {
+  font-style: italic;
+  color: blue;
+  font-size: 85%;
 }
 
-.geneva{
-    font-family: Geneva, Arial, Helvetica, sans-serif;
+.geneva {
+  font-family: Geneva, Arial, Helvetica, sans-serif;
 }
